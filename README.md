@@ -9,11 +9,7 @@ Es un sistema para el control de proyectos creado para una, agencia de viajes, e
     - [DESCARGAR](https://www.oracle.com/co/java/technologies/javase/javase8-archive-downloads.html)
     ###### JDK11
     - [DESCARGAR](https://www.oracle.com/co/java/technologies/javase/jdk11-archive-downloads.html) 
-- ITEXTPDF 5.5.9
-    ###### ITEXTPDF5
-    - [DESCARGAR](https://jar-download.com/artifacts/com.itextpdf/itextpdf/5.5.9/source-code)
-    ###### API ITEXTPDF5
-    - [DOCUMENTTACIÓN](https://api.itextpdf.com/iText5/java/5.5.9/)
+
 - NETBEANS
     ###### APACHE NETBEANS
     - [DESCARGAR](https://netbeans.apache.org/download/index.html)
