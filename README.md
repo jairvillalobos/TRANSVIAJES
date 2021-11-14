@@ -31,37 +31,38 @@ Es un sistema para el control de proyectos creado para una, agencia de viajes, e
 
 ### ESTRUCTURA DE CARPTETAS
 
+.
 ├── controllers
-│--├── ClientController.java
-│-- ├── EmployeeController.java
-│-- ├── Plantilla.java
-│-- ├── ProjectController.java
-│-- ├── TemplateExportProject.java
-│-- └── UserAdminController.java
+│   ├── ClientController.java
+│   ├── EmployeeController.java
+│   ├── Plantilla.java
+│   ├── ProjectController.java
+│   ├── TemplateExportProject.java
+│   └── UserAdminController.java
 ├── images
-│-- ├── Actions-project-open-icon_gram.png
-│-- ├── Actions-project-open-icon.png
-│-- ├── Admin-icon.png
-│-- ├── app-pdf-icon_grma.png
-│-- ├── app-pdf-icon.png
-│-- ├── arrow-back-1-icon.png
-│-- ├── arrow-next-1-icon.png
-│-- ├── Clients-icon_grma.png
-│-- ├── Clients-icon.png
-│-- ├── fondo.jpg
-│-- ├── logo1.jpg
-│-- ├── logo22.jpg
-│-- ├── logout-icon.png
-│-- ├── User-Employee-icon_gram.png
-│-- ├── User-Employee-icon.png
-│-- └── viajes.jpg
+│   ├── Actions-project-open-icon_gram.png
+│   ├── Actions-project-open-icon.png
+│   ├── Admin-icon.png
+│   ├── app-pdf-icon_grma.png
+│   ├── app-pdf-icon.png
+│   ├── arrow-back-1-icon.png
+│   ├── arrow-next-1-icon.png
+│   ├── Clients-icon_grma.png
+│   ├── Clients-icon.png
+│   ├── fondo.jpg
+│   ├── logo1.jpg
+│   ├── logo22.jpg
+│   ├── logout-icon.png
+│   ├── User-Employee-icon_gram.png
+│   ├── User-Employee-icon.png
+│   └── viajes.jpg
 ├── models
-│-- ├── Client.java
-│-- ├── Employee.java
-│-- ├── Persona.java
-│-- ├── Project.java
-│-- ├── UserAdmin.java
-│--└── User.java
+│   ├── Client.java
+│   ├── Employee.java
+│   ├── Persona.java
+│   ├── Project.java
+│   ├── UserAdmin.java
+│   └── User.java
 └── views
     ├── ClientGestion.form
     ├── ClientGestion.java
@@ -75,12 +76,14 @@ Es un sistema para el control de proyectos creado para una, agencia de viajes, e
     ├── Home.java
     ├── Login.form
     ├── Login.java
+    ├── PdfExportProyect.form
+    ├── PdfExportProyect.java
     ├── ProjectGestion.form
     ├── ProjectGestion.java
     ├── ProjectRegisterForm.form
     └── ProjectRegisterForm.java
 
-4 directories, 44 files
+4 directories, 47 files
 
 License
 MIT
