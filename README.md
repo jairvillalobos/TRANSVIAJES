@@ -25,9 +25,7 @@ Es un sistema para el control de proyectos creado para una, agencia de viajes, e
 - [FORM CLIENT](https://drive.google.com/file/d/1r9stBMzys3-GpGXpzbQVptmcBrY0Pw2h/view)
 - [FORM EMPLOYEE](https://drive.google.com/file/d/1bKxE8XywrTUYdF1eXHrM1ClyIgMz2l_9/view)
 
-
-4 directories, 47 files
-
 License
 MIT
 Free Software
+
